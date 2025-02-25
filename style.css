@@ -1,0 +1,37 @@
+
+
+*{
+  padding:0;
+  margin: 0;
+}
+
+:root{
+  /* Cores */
+  --background-default: #F5F4F0;
+  --border-primary: #D9D9D9;
+
+  --text-primary: #1B1B1B;
+  --text-secondary: #333333;
+  --text-tertiary: #696969;
+  --text-headline: #E1624F;
+
+  --accent-blue: #0C51A7;
+  --accent-orange: #E95E10;
+  --accent-pink: #E5245E;
+  --accent-purple: #591B98;
+  /* Outros */
+}
+
+body{
+  background-color: var(--background-default);
+}
+
+img{
+  width: 100%;
+  border-radius: 28px;
+}
+#page{
+  box-sizing: border-box;
+  width: 80%;
+  margin: 60px auto;
+}
