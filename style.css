@@ -38,18 +38,33 @@ img{
 }
 h1{
   margin: 8px auto 40px;
+  color: var(--text-primary)
 }
 h2{
   margin-bottom: 8px;
 }
+h3{
+  margin: 20px auto 4px
+}
+h4{
+  color: var(--text-headline);
+  text-transform: uppercase;
+}
 #about p {
   margin: 24px auto 104px;
+  color: var(--text-secondary);
+  text-align: center;
 }
 #list-title p{
   margin-bottom: 64px ;
+  color: var(--text-secondary);
 }
-h3{
-  margin: 20px auto 4px
+.content-card p:first-of-type {
+  color: var(--text-secondary);
+}
+#last{
+  color: var(--text-secondary);
+  text-align: center;
 }
 p + p {
   margin-top: 18px;
@@ -61,4 +76,20 @@ ul{
 }
 footer{
   margin: 60px auto 40px;
+}
+
+.italic {
+  font-style: italic;
+}
+.historia{
+  color: var(--accent-blue)
+}
+.casal{
+  color: var(--accent-purple)
+}
+.familia{
+  color: var(--accent-pink)
+}
+.orcamento{
+  color: var(--accent-orange)
 }
