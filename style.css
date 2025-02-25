@@ -24,6 +24,7 @@
 
 body{
   background-color: var(--background-default);
+  font-family: "Open Sans", sans-serif;
 }
 
 img{
@@ -53,6 +54,11 @@ h3{
 p + p {
   margin-top: 18px;
 }
-#last-description{
-  margin: 40px auto 20px;
+
+ul{
+  padding-left: 22px;
+  margin-bottom: 48px;
+}
+footer{
+  margin: 60px auto 40px;
 }
