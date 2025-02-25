@@ -35,3 +35,24 @@ img{
   width: 80%;
   margin: 60px auto;
 }
+h1{
+  margin: 8px auto 40px;
+}
+h2{
+  margin-bottom: 8px;
+}
+#about p {
+  margin: 24px auto 104px;
+}
+#list-title p{
+  margin-bottom: 64px ;
+}
+h3{
+  margin: 20px auto 4px
+}
+p + p {
+  margin-top: 18px;
+}
+#last-description{
+  margin: 40px auto 20px;
+}
