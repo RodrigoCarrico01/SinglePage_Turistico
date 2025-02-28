@@ -1,21 +1,44 @@
-# Local Turístico - Desafio prático
 
-## Descrição
-Este projeto é uma página web desenvolvida como parte de um desafio prático para consolidar conhecimentos em HTML e CSS. A página apresenta informações sobre um local turístico, com estrutura organizada, feita com a ajuda da RocketSeat!
+<h1 align="center"> Desafio Local turistico </h1>
 
-## Tecnologias utilizadas
+<p align="center">
+O Primeiro desafio prático da trilha Full-Stack, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
+</p>
+
+<p align="center">
+  <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#licença">Licença</a>
+</p>
+
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000"">
+</p>
+
+<br>
+
+<p align="center">
+  <img alt="Desafio local turistico" src="assets/imagedesafio.png" width="100%">
+</p>
+
+## Tecnologias
+
 - **HTML5** para estruturação do conteúdo
 - **CSS3** para estilização
 - **Google Fonts** para personalização da tipografia
 
-## Como executar o projeto
-1. Clonar o repositório:
-   ```sh
-   git clone https://github.com/RodrigoCarrico01/SinglePage_Turistico.git
-   ```
-2. Abrir o ficheiro `index.html` num navegador web.
+## Projeto
 
-## Melhorias futuras (Caso alguém deseje)
-- Adicionar animações para melhor experiência do utilizador
-- Implementar JavaScript para interatividade
-- Criar um modo escuro para melhor acessibilidade
+- [Visita o projeto online!](https://rodrigocarrico01.github.io/SinglePage_Turistico/)
+
+## Layout
+
+Tu podes visualizar o layout do projeto através [DESTE LINK](https://www.figma.com/community/file/1384542229391733447/local-turistico). É necessário ter conta no [Figma](https://figma.com) para acedê-lo.
+
+## Licença
+
+Este projeto está sob a licença MIT.
+
+---
+
